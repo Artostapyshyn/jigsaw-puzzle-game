@@ -1,0 +1,16 @@
+puzzles/puzzle_4161.jpg,0,0
+puzzles/puzzle_1880.jpg,1,0
+puzzles/puzzle_1929.jpg,2,0
+puzzles/puzzle_3032.jpg,3,0
+puzzles/puzzle_5550.jpg,0,1
+puzzles/puzzle_9345.jpg,1,1
+puzzles/puzzle_2201.jpg,2,1
+puzzles/puzzle_4148.jpg,3,1
+puzzles/puzzle_746.jpg,0,2
+puzzles/puzzle_5877.jpg,1,2
+puzzles/puzzle_3269.jpg,2,2
+puzzles/puzzle_3916.jpg,3,2
+puzzles/puzzle_3095.jpg,0,3
+puzzles/puzzle_4096.jpg,1,3
+puzzles/puzzle_7641.jpg,2,3
+puzzles/puzzle_6656.jpg,3,3
